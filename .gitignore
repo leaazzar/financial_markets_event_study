@@ -1,0 +1,8 @@
+# CRSP/WRDS data (licensed, not redistributable)
+data/SPY_data*.csv
+data/analysis_data*.csv
+
+*.zip
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
